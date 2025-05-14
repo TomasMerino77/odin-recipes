@@ -1,0 +1,1 @@
+This is my first attempt at web development. Besides learning the basic elements and how to use them I've tried to format the pages the way I wanted, placing the images where I wanted rather than leaving them where they just appeared. 
